@@ -52,10 +52,10 @@ This step will leverage an Ansible playbool to download software from SAP, the d
     cd ~/Azure_SAP_Automated_Deployment/WORKSPACES/BOMS
     ```
 
-2. Create the `sap_parameters.yaml` parameter file.
+2. Create the `sap-parameters.yaml` parameter file.
 
     ```bash
-    vi sap_parameters.yaml
+    vi sap-parameters.yaml
     ```
 
     Values to be updated:
